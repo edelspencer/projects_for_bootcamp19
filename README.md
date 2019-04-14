@@ -1,2 +1,2 @@
 # projects_for_bootcamp19
-Homework projects for each modul
+Homework projects for each module
